@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Task-Yalantis/static/css/main.b783910b.chunk.css",
+    "main.css": "/Task-Yalantis/static/css/main.dfe50760.chunk.css",
     "main.js": "/Task-Yalantis/static/js/main.9fa06574.chunk.js",
     "main.js.map": "/Task-Yalantis/static/js/main.9fa06574.chunk.js.map",
     "runtime-main.js": "/Task-Yalantis/static/js/runtime-main.b7931c5c.js",
@@ -8,15 +8,15 @@
     "static/js/2.3bf1ab58.chunk.js": "/Task-Yalantis/static/js/2.3bf1ab58.chunk.js",
     "static/js/2.3bf1ab58.chunk.js.map": "/Task-Yalantis/static/js/2.3bf1ab58.chunk.js.map",
     "index.html": "/Task-Yalantis/index.html",
-    "precache-manifest.2942354c177a75dd28380aded99a6780.js": "/Task-Yalantis/precache-manifest.2942354c177a75dd28380aded99a6780.js",
+    "precache-manifest.a44f12e827c374ad8e230a5a3b27df36.js": "/Task-Yalantis/precache-manifest.a44f12e827c374ad8e230a5a3b27df36.js",
     "service-worker.js": "/Task-Yalantis/service-worker.js",
-    "static/css/main.b783910b.chunk.css.map": "/Task-Yalantis/static/css/main.b783910b.chunk.css.map",
+    "static/css/main.dfe50760.chunk.css.map": "/Task-Yalantis/static/css/main.dfe50760.chunk.css.map",
     "static/js/2.3bf1ab58.chunk.js.LICENSE.txt": "/Task-Yalantis/static/js/2.3bf1ab58.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.b7931c5c.js",
     "static/js/2.3bf1ab58.chunk.js",
-    "static/css/main.b783910b.chunk.css",
+    "static/css/main.dfe50760.chunk.css",
     "static/js/main.9fa06574.chunk.js"
   ]
 }
