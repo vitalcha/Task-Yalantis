@@ -11,7 +11,7 @@
  * See https://goo.gl/2aRDsh
  */
 
-importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
+importScripts("https://storage.googleapis.cogit addm/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
   "/Task-Yalantis/precache-manifest.2942354c177a75dd28380aded99a6780.js"
